@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>PZDRK</title>
-        <link>https://maccook.zed.md</link>
+        <link>https://agisota.github.io/maccook.zed.md</link>
         <description>PZDRK Updates</description>
         <language>en</language>
         <item>
@@ -13,7 +13,7 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:channel>release</sparkle:channel>
             <enclosure
-                url="https://maccook.zed.md/PZDRK.dmg"
+                url="https://agisota.github.io/maccook.zed.md/PZDRK.dmg"
                 length="15454842"
                 type="application/octet-stream"
                 sparkle:edSignature="PHUDOylA+sVeG5uangJgBcDKiUuxcwMrhDDfg3hkOpPLN6pWP9WgF6NdtDgEX9EAWEBgbaJWkxYjdtnNqRSdCQ=="
