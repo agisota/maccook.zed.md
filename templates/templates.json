@@ -1,0 +1,16 @@
+[
+    {
+        "id": "macos-sequoia-base",
+        "name": "macOS Sequoia",
+        "description": "Clean macOS 15 Sequoia installation with default settings.",
+        "version": "1.0",
+        "osVersion": "15.0",
+        "diskSizeGB": 64,
+        "memoryGB": 8,
+        "cpuCount": 4,
+        "preinstalledApps": [],
+        "downloadURL": null,
+        "downloadSizeBytes": null,
+        "checksum": null
+    }
+]
