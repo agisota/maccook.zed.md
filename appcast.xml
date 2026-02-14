@@ -2,21 +2,22 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>PZDRK</title>
-        <link>https://agisota.github.io/maccook.zed.md</link>
+        <link>https://maccook.zed.md</link>
         <description>PZDRK Updates</description>
         <language>en</language>
         <item>
             <title>PZDRK 2.1</title>
-            <pubDate>Thu, 13 Feb 2026 12:00:00 +0000</pubDate>
-            <sparkle:version>284</sparkle:version>
+            <pubDate>Sat, 14 Feb 2026 09:42:57 +0000</pubDate>
+            <sparkle:version>285
+$(CURRENT_PROJECT_VERSION)</sparkle:version>
             <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:channel>release</sparkle:channel>
             <enclosure
-                url="https://agisota.github.io/maccook.zed.md/PZDRK.dmg"
-                length="15454842"
+                url="https://maccook.zed.md/PZDRK.dmg"
+                length="15864662"
                 type="application/octet-stream"
-                sparkle:edSignature="PHUDOylA+sVeG5uangJgBcDKiUuxcwMrhDDfg3hkOpPLN6pWP9WgF6NdtDgEX9EAWEBgbaJWkxYjdtnNqRSdCQ=="
+                sparkle:edSignature="qBsDS5mHz/Ttjfz7RtRqa5hgnXqWpajP1O7juXBpjcZxbHHPhqSdEN2z76NaHk2GKgJ1xj+vkUuz9KuazCoIAw=="
             />
         </item>
     </channel>
