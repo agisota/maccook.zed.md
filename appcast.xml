@@ -7,17 +7,16 @@
         <language>en</language>
         <item>
             <title>PZDRK 2.1</title>
-            <pubDate>Sat, 14 Feb 2026 09:42:57 +0000</pubDate>
-            <sparkle:version>285
-$(CURRENT_PROJECT_VERSION)</sparkle:version>
+            <pubDate>Sat, 14 Feb 2026 09:43:58 +0000</pubDate>
+            <sparkle:version>285</sparkle:version>
             <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:channel>release</sparkle:channel>
             <enclosure
                 url="https://maccook.zed.md/PZDRK.dmg"
-                length="15864662"
+                length="15864896"
                 type="application/octet-stream"
-                sparkle:edSignature="qBsDS5mHz/Ttjfz7RtRqa5hgnXqWpajP1O7juXBpjcZxbHHPhqSdEN2z76NaHk2GKgJ1xj+vkUuz9KuazCoIAw=="
+                sparkle:edSignature="qz4oRXO1WhXRneGfjcOwUqk2AiZpP560BwhAS+x4fGijV8SC5akhmENYha0wm5aATzvbyeLWfTfQNBMabGsCDw=="
             />
         </item>
     </channel>
