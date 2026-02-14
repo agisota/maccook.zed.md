@@ -2,7 +2,7 @@
 set -euo pipefail
 
 APP_NAME="PZDRK"
-DMG_URL="https://maccook.zed.md/PZDRK.dmg"
+DMG_URL="https://agisota.github.io/maccook.zed.md/PZDRK.dmg"
 INSTALL_DIR="/Applications"
 TMP_DMG="/tmp/${APP_NAME}.dmg"
 MOUNT_DIR=$(mktemp -d)
